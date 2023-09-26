@@ -81,3 +81,12 @@ html {
       }
   
   }
+
+  html.dark {
+    background-color: #272727;
+    color: #fff;
+  }
+  
+  .dark .nav-links a {
+    color: #fff;
+  }
